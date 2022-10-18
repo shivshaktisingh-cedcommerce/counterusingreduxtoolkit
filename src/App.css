@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.main_div_component_class{
+  width:90%;
+  margin:auto;
+}
+button{
+  width:5vw;
+  margin:1vw;
+  min-height: 3vw;
+  cursor: pointer;
+}
+input[type=number]{
+  width:8vw;
+  min-height: 2.5vw;
+}
+
